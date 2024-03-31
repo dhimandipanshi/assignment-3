@@ -1,0 +1,14 @@
+c:\Users\dhima\OneDrive\Desktop\new_assignment\bin\Debug\net8.0\new_assignment.exe
+c:\Users\dhima\OneDrive\Desktop\new_assignment\bin\Debug\net8.0\new_assignment.deps.json
+c:\Users\dhima\OneDrive\Desktop\new_assignment\bin\Debug\net8.0\new_assignment.runtimeconfig.json
+c:\Users\dhima\OneDrive\Desktop\new_assignment\bin\Debug\net8.0\new_assignment.dll
+c:\Users\dhima\OneDrive\Desktop\new_assignment\bin\Debug\net8.0\new_assignment.pdb
+c:\Users\dhima\OneDrive\Desktop\new_assignment\obj\Debug\net8.0\new_assignment.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\dhima\OneDrive\Desktop\new_assignment\obj\Debug\net8.0\new_assignment.AssemblyInfoInputs.cache
+c:\Users\dhima\OneDrive\Desktop\new_assignment\obj\Debug\net8.0\new_assignment.AssemblyInfo.cs
+c:\Users\dhima\OneDrive\Desktop\new_assignment\obj\Debug\net8.0\new_assignment.csproj.CoreCompileInputs.cache
+c:\Users\dhima\OneDrive\Desktop\new_assignment\obj\Debug\net8.0\new_assignment.dll
+c:\Users\dhima\OneDrive\Desktop\new_assignment\obj\Debug\net8.0\refint\new_assignment.dll
+c:\Users\dhima\OneDrive\Desktop\new_assignment\obj\Debug\net8.0\new_assignment.pdb
+c:\Users\dhima\OneDrive\Desktop\new_assignment\obj\Debug\net8.0\new_assignment.genruntimeconfig.cache
+c:\Users\dhima\OneDrive\Desktop\new_assignment\obj\Debug\net8.0\ref\new_assignment.dll
